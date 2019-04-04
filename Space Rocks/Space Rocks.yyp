@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "dafad6e7-fab8-47fc-a05d-43cee22e687b",
+            "Value": {
+                "id": "91942847-56a1-40f3-b54b-3944d84910f5",
+                "resourcePath": "objects\\obj_part_flame\\obj_part_flame.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dbb4eb9f-fc0c-46ce-addb-f0db0145808e",
             "Value": {
                 "id": "28f77fdb-0a6c-48ac-8693-9572125557da",
